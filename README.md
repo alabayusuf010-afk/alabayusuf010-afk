@@ -13,7 +13,7 @@ Graduate researcher at UFLA (Federal University of Lavras, Brazil), School of En
 - [Calib3D_ORBTracker](https://github.com/alabayusuf010-afk/Calib3D_ORBTracker): ORB feature tracking with 3D camera calibration (C++)
 - [StereoVision](https://github.com/alabayusuf010-afk/StereoVision): stereo vision and calibration project (Kotlin)
 
-**In progress**: "Predicting Immersive VR Quality from Private 5G Network Metrics: A Random Forest Approach"
+**Publication**: "Predicting Immersive VR Quality from Private 5G Network Metrics: A Random Forest Approach" - completed, Elsevier manuscript finalized
 
 ORCID: https://orcid.org/0009-0003-2032-3448
 Contact: alabayusuf010@gmail.com
